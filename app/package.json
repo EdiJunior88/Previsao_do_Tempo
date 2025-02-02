@@ -18,11 +18,13 @@
     "npm-check-updates": "^17.1.13"
   },
   "devDependencies": {
+    "@nuxt/eslint-config": "^1.0.0",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/eslint-module": "^4.1.0",
     "@tailwindcss/postcss": "^4.0.3",
     "@typescript-eslint/eslint-plugin": "^8.22.0",
     "@typescript-eslint/parser": "^8.22.0",
+    "@vue/eslint-config-standard": "^9.0.0",
     "autoprefixer": "^10.4.20",
     "eslint": "^8.48.0",
     "eslint-config-prettier": "^10.0.1",
